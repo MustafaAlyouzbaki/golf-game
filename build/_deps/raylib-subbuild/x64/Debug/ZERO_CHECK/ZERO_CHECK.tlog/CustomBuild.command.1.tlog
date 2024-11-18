@@ -1,0 +1,10 @@
+^C:\USERS\MUSAL\ONEDRIVE\DESKTOP\4TH YEAR\CISC 320\GAME\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKEFILES\B1B1C3BBF3EA980E9E8674D5F96502E8\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild" "-BC:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/raylib-populate.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

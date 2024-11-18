@@ -1,0 +1,10 @@
+^C:\USERS\MUSAL\ONEDRIVE\DESKTOP\4TH YEAR\CISC 320\GAME\BUILD\_DEPS\RAYLIB-SUBBUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild" "-BC:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild" --check-stamp-file "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

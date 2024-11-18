@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/b1b1c3bbf3ea980e9e8674d5f96502e8/raylib-populate.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/7eaf5509c3443912f10ea53b81a0f253/raylib-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/musal/OneDrive/Desktop/4th Year/CISC 320/Game/build/_deps/raylib-subbuild/CMakeFiles/acf7b17750e2e8e7ced06dcb93474bd3/raylib-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"raylib-populate"
+		],
+		"name" : "raylib-populate"
+	}
+}

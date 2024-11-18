@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\acf7b17750e2e8e7ced06dcb93474bd3\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\7eaf5509c3443912f10ea53b81a0f253\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\b1b1c3bbf3ea980e9e8674d5f96502e8\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\musal\OneDrive\Desktop\4th Year\CISC 320\Game\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{74B103B5-F4C9-3F4E-A876-23870287228C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
